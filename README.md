@@ -22,8 +22,8 @@ This is my very first project that includes testing. It takes 'name' and 'email'
 
 ### Links
 
-- [GitHub repository](https://github.com/ArinzeGit/RTL-Jest-Test-App)
-- [Live site URL](https://arinzegit.github.io/RTL-Jest-Test-App/)
+- [GitHub Repository](https://github.com/ArinzeGit/RTL-Jest-Test-App)
+- [Live Site URL](https://arinzegit.github.io/RTL-Jest-Test-App/)
 
 ## My process
 
