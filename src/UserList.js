@@ -10,7 +10,7 @@ function UserList({ users }) {
     });
   
     return (
-      <table>
+      <table border={1} cellSpacing={0}>
         <thead>
           <tr>
             <th>Name</th>
