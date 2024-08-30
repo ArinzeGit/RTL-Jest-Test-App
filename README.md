@@ -30,13 +30,12 @@ This is my very first project that includes testing. It takes 'name' and 'email'
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - JavaScript
 - React
-- Node.js
-- Create React App
 - React Testing Library (RTL)
 - Jest
+- Node.js
+- Create React App
 
 ### What I learned
 
