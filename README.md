@@ -18,7 +18,7 @@ This is my very first app that includes testing. It takes 'name' and 'email' fro
 
 ### Screenshot
 
-![Test app screenshot](public/Test%20app%20screenshot.PNG)
+![Test app screenshot](public/TestApp%20screenshot.PNG)
 
 ### Links
 
