@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RTL-Jest-Test-App/static/css/main.31d6cfe0.css",
+    "main.js": "/RTL-Jest-Test-App/static/js/main.34d3bbbe.js",
+    "static/js/453.5e698cb4.chunk.js": "/RTL-Jest-Test-App/static/js/453.5e698cb4.chunk.js",
+    "index.html": "/RTL-Jest-Test-App/index.html",
+    "main.34d3bbbe.js.map": "/RTL-Jest-Test-App/static/js/main.34d3bbbe.js.map",
+    "453.5e698cb4.chunk.js.map": "/RTL-Jest-Test-App/static/js/453.5e698cb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.34d3bbbe.js"
+  ]
+}
