@@ -1,6 +1,6 @@
 # RTL-Jest Test App
 
-This is my very first project that includes testing. It takes 'name' and 'email' from input fields and adds to a dynamic table. I used this to learn/practice writing `unit tests`. This is just a test app (pun intended). I will test more sophisticated apps in future projects.
+This is my very first project that includes testing. It takes 'name' and 'email' from input fields and adds to a dynamic table. I used this to learn/practice writing `unit tests`. This is just a test app (pun intended) with only 6 tests. I will test more sophisticated apps in future projects.
 
 ## Table of contents
 
