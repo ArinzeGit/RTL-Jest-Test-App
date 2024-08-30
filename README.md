@@ -1,6 +1,6 @@
 # RTL-Jest Test App
 
-This is my very first app that includes testing. It takes 'name' and 'email' from input fields and adds to a dynamic table. I used this to practice writing unit tests.
+This is my very first app that includes testing. It takes 'name' and 'email' from input fields and adds to a dynamic table. I used this to practice writing `unit tests`.
 
 ## Table of contents
 
@@ -35,10 +35,25 @@ This is my very first app that includes testing. It takes 'name' and 'email' fro
 - React
 - Node.js
 - Create React App
-- RTL
+- React Testing Library (RTL)
 - Jest
 
 ### What I learned
+
+- I learnt basic concepts in `Jest` like:
+  - Installation and setup
+  - Basic syntax like `expect`
+  - Assertions like `toBe`, `toEqual`, and `toContain`
+  - Mocking functions and modules to isolate tests and control their behavior
+  - Handling asynchronous code in tests using `async/await` or Promises.
+- I learnt basic concepts in `React Testing Library (RTL)` like:
+  - Installation and setup
+  - Rendering components using `render` to create an instance of components and interact with it.
+  - Queries: Finding elements in the DOM using queries like `getByText`, `getByRole`, and `getByTestId`.
+  - User Interactions: Simulating user interactions such as clicks and typing with functions like `fireEvent` and `userEvent`.
+  - Making assertions about the component's behavior and output using `expect` and queries from RTL.
+  - Writing tests to verify that components render correctly and respond to user actions as expected.
+  - Clean Up: Ensuring that tests do not interfere with each other by cleaning up after tests if necessary.
 
 ### Continued development
 
